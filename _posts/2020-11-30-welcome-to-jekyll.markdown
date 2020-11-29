@@ -11,7 +11,7 @@ Edit this later lmao
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Jekyll also offers powerful support for code snippets:
 
