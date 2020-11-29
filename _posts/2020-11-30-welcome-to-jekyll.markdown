@@ -11,6 +11,8 @@ Edit this later lmao
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
+<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
