@@ -6,4 +6,4 @@
 _config.yml:
   3  title: "Memoirs"
   4: description: "Welcome to Zach's Website!"
-  5  logo: 'assets/images/ZBLogo.png'
+  5  logo: 'assets/images/logo.png'
