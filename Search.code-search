@@ -1,0 +1,9 @@
+# Query: i will take 
+# ContextLines: 1
+
+1 result - 1 file
+
+_config.yml:
+  3  title: "Memoirs"
+  4: description: "Welcome to Zach's Website!"
+  5  logo: 'assets/images/ZBLogo.png'
